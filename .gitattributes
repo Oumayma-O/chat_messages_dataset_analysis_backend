@@ -1,0 +1,5 @@
+# Handle line endings automatically for text files
+* text=auto
+
+# Ignore the virtual environment
+venv/* -text
